@@ -1,0 +1,20 @@
+{
+  "name": "timercountdown",
+  "version": "2.0.0",
+  "description": "Таймер зворотного відліку з REST API",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "keywords": [
+    "timer",
+    "countdown",
+    "api",
+    "json-server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  }
+}

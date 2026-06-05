@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Тестовий Користувач",
+      "email": "test@example.com",
+      "gender": "Чоловіча",
+      "dob": "1990-01-01",
+      "password": "123456",
+      "createdAt": "2026-06-01T10:00:00.000Z"
+    },
+    {
+      "name": "Test Testt",
+      "email": "petrashanton04@gmail.com",
+      "gender": "Чоловіча",
+      "dob": "2001-01-01",
+      "password": "1234",
+      "createdAt": "2026-06-05T19:41:49.057Z",
+      "id": "PlWECWQlGcc"
+    }
+  ],
+  "timers": [
+    {
+      "userId": "1",
+      "name": "АВІіаіва",
+      "startTime": "0345-02-24T11:10:56.000Z",
+      "endTime": "2026-06-27T10:13:00.000Z",
+      "status": "waiting",
+      "createdAt": "2026-06-05T19:39:52.181Z",
+      "id": "xUQgCS_PlS0"
+    },
+    {
+      "userId": "1",
+      "name": "1231вцв1",
+      "startTime": "2026-06-20T09:12:00.000Z",
+      "endTime": "2026-06-26T09:12:00.000Z",
+      "status": "waiting",
+      "createdAt": "2026-06-05T19:40:23.436Z",
+      "id": "juX807GmpTU"
+    },
+    {
+      "userId": "PlWECWQlGcc",
+      "name": "123",
+      "startTime": "2026-06-07T11:14:00.000Z",
+      "endTime": "2026-06-29T12:14:00.000Z",
+      "status": "waiting",
+      "createdAt": "2026-06-05T19:42:04.604Z",
+      "id": "r2Zrymnsris"
+    },
+    {
+      "userId": "PlWECWQlGcc",
+      "name": "2",
+      "startTime": "2026-06-07T19:56:00.000Z",
+      "endTime": "2026-06-19T19:56:00.000Z",
+      "status": "waiting",
+      "createdAt": "2026-06-05T19:53:32.644Z",
+      "id": "VvLZzBBgOXA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
